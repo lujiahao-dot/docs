@@ -19,6 +19,28 @@
 "navigation": {
 "pages": [
 {
+"group": "Getting Started",
+"pages": [
+"index",
+"quickstart"
+]
+}
+],
+"global": {
+"anchors": [
+{
+"anchor": "Documentation",
+"href": "https://mintlify.com/docs",
+"icon": "book-open-cover"
+},
+{
+"anchor": "Blog",
+"href": "https://mintlify.com/blog",
+"icon": "newspaper"
+}
+]
+},
+"groups": [
 {
 "group": "Getting Started",
 "pages": [
@@ -27,6 +49,12 @@
 "workspace",
 "untitled-page-2",
 "untitled-page-3",
+"untitled-page-4",
+"untitled-page-5",
+"untitled-page-6",
+"quickstart"
+]
+}
 ]
 },
 "logo": {
@@ -46,6 +74,17 @@
 "primary": {
 "type": "button",
 "label": "Dashboard",
+"href": "https://app.mintlify.com"
+}
+},
+"contextual": {
+"options": [
+"copy",
+"view",
+"chatgpt",
+"claude",
+"perplexity",
+"mcp",
 "cursor",
 "vscode"
 ]
