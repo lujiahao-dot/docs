@@ -19,7 +19,6 @@
 "navigation": {
 "pages": [
 {
-@@ -36,7 +39,7 @@
 {
 "group": "Getting Started",
 "pages": [
@@ -28,7 +27,6 @@
 "workspace",
 "untitled-page-2",
 "untitled-page-3",
-@@ -49,16 +52,11 @@
 ]
 },
 "logo": {
@@ -48,7 +46,6 @@
 "primary": {
 "type": "button",
 "label": "Dashboard",
-@@ -76,12 +74,5 @@
 "cursor",
 "vscode"
 ]
