@@ -1,13 +1,16 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mintlify Starter Kit",
+  "name": "Light X for Creative 帮助中心",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#0074FF",
+    "light": "#0074FF",
+    "dark": "#0074FF"
   },
-  "favicon": "/favicon.svg",
+  "favicon": {
+    "light": "/images/logo@32.png",
+    "dark": "/images/logo@32.png"
+  },
   "navigation": {
     "pages": [
       {
@@ -36,7 +39,7 @@
       {
         "group": "Getting Started",
         "pages": [
-          "index",
+          "",
           "workspace",
           "untitled-page-2",
           "untitled-page-3",
@@ -49,16 +52,11 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.png",
-    "dark": "/logo/dark.svg"
+    "light": "/images/LightXforCreative.png",
+    "dark": "/images/LightXforCreative.png"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
+    "links": [],
     "primary": {
       "type": "button",
       "label": "Dashboard",
@@ -76,12 +74,5 @@
       "cursor",
       "vscode"
     ]
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
   }
 }
