@@ -1,8 +1,12 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+"$schema": "https://mintlify.com/docs.json",
+"theme": "mint",
+  "name": "Mintlify Starter Kit",
   "name": "Light X for Creative 帮助中心",
-  "colors": {
+"colors": {
+    "primary": "#16A34A",
+    "light": "#07C983",
+    "dark": "#15803D"
     "primary": "#0074FF",
     "light": "#0074FF",
     "dark": "#0074FF"
@@ -10,69 +14,50 @@
   "favicon": {
     "light": "/images/logo@32.png",
     "dark": "/images/logo@32.png"
-  },
-  "navigation": {
-    "pages": [
-      {
-        "group": "Getting Started",
-        "pages": [
+},
+  "favicon": "/favicon.svg",
+"navigation": {
+"pages": [
+{
+@@ -36,7 +39,7 @@
+{
+"group": "Getting Started",
+"pages": [
           "index",
-          "quickstart"
-        ]
-      }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    },
-    "groups": [
-      {
-        "group": "Getting Started",
-        "pages": [
           "",
-          "workspace",
-          "untitled-page-2",
-          "untitled-page-3",
-          "untitled-page-4",
-          "untitled-page-5",
-          "untitled-page-6",
-          "quickstart"
-        ]
-      }
-    ]
-  },
-  "logo": {
+"workspace",
+"untitled-page-2",
+"untitled-page-3",
+@@ -49,16 +52,11 @@
+]
+},
+"logo": {
+    "light": "/logo/light.png",
+    "dark": "/logo/dark.svg"
     "light": "/images/LightXforCreative.png",
     "dark": "/images/LightXforCreative.png"
-  },
-  "navbar": {
+},
+"navbar": {
+    "links": [
+      {
+        "label": "Support",
+        "href": "mailto:hi@mintlify.com"
+      }
+    ],
     "links": [],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
-    }
+"primary": {
+"type": "button",
+"label": "Dashboard",
+@@ -76,12 +74,5 @@
+"cursor",
+"vscode"
+]
   },
-  "contextual": {
-    "options": [
-      "copy",
-      "view",
-      "chatgpt",
-      "claude",
-      "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
-    ]
-  }
+  "footer": {
+    "socials": {
+      "x": "https://x.com/mintlify",
+      "github": "https://github.com/mintlify",
+      "linkedin": "https://linkedin.com/company/mintlify"
+    }
+}
 }
