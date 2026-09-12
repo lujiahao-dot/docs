@@ -18,32 +18,38 @@
         ]
       }
     ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    },
-    "groups": [
+    "tabs": [
       {
-        "group": "Getting Started",
+        "tab": "首页",
         "pages": [
           "index",
-           "workspace",
-          "untitled-page-2",
-          "untitled-page-3",
-          "untitled-page-4",
-          "untitled-page-5",
-          "untitled-page-6"
+          "untitled-page-2"
         ]
+      },
+      {
+        "tab": "投放管理",
+        "pages": [
+          "untitled-page",
+          "untitled-page-7"
+        ]
+      },
+      {
+        "tab": "工作台",
+        "pages": [
+          "workspace"
+        ]
+      },
+      {
+        "tab": "资产中心"
+      },
+      {
+        "tab": "团队管理"
+      },
+      {
+        "tab": "任务中心"
+      },
+      {
+        "tab": "报表中心"
       }
     ]
   },
