@@ -30,13 +30,6 @@
         ]
       },
       {
-        "tab": "投放管理",
-        "pages": [
-          "untitled-page",
-          "untitled-page-7"
-        ]
-      },
-      {
         "tab": "工作台",
         "pages": [
           "workspace"
@@ -44,6 +37,13 @@
       },
       {
         "tab": "资产中心"
+      },
+      {
+        "tab": "投放管理",
+        "pages": [
+          "untitled-page",
+          "untitled-page-7"
+        ]
       },
       {
         "tab": "团队管理"
