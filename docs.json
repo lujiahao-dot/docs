@@ -23,36 +23,54 @@
         "tab": "首页",
         "pages": [
           "index",
+          "docs/quickstart",
           "untitled-page-3",
-          "untitled-page-2",
-          "untitled-page-4",
+          "he-xin-gong-neng",
           "untitled-page-5"
         ]
       },
       {
         "tab": "工作台",
         "pages": [
-          "workspace"
+          "workspace",
+          "untitled-page",
+          "untitled-page-2",
+          "untitled-page-4"
         ]
       },
       {
-        "tab": "资产中心"
+        "tab": "资产中心",
+        "pages": [
+          "zhang-hu-guan-li",
+          "creative-su-cai-ku"
+        ]
       },
       {
         "tab": "投放管理",
         "pages": [
-          "untitled-page",
+          "chuang-bian-guan-li",
+          "ce-lue-mo-ban"
+        ]
+      },
+      {
+        "tab": "团队管理",
+        "pages": [
           "untitled-page-7"
         ]
       },
       {
-        "tab": "团队管理"
+        "tab": "任务中心",
+        "pages": [
+          "chuang-jian-guang-gao"
+        ]
       },
       {
-        "tab": "任务中心"
-      },
-      {
-        "tab": "报表中心"
+        "tab": "报表中心",
+        "pages": [
+          "da-pan-gai-lan",
+          "su-cai-bao-biao",
+          "tuan-dui-kan-ban"
+        ]
       }
     ]
   },
