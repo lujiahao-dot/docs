@@ -35,7 +35,7 @@
           "workspace",
           "untitled-page",
           "she-ji",
-          "untitled-page-4"
+          "admin"
         ]
       },
       {
@@ -74,6 +74,16 @@
           "da-pan-gai-lan",
           "su-cai-bao-biao",
           "tuan-dui-kan-ban"
+        ]
+      },
+      {
+        "tab": "资产",
+        "pages": [
+          "di-qu-zu",
+          "ding-xiang-bao",
+          "chu-jia-he-yu-suang",
+          "chuang-yi-zu",
+          "chuang-xin-hu-dong-yang-shi"
         ]
       }
     ]
