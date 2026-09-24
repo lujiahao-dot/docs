@@ -46,7 +46,17 @@
           "wen-an-ku",
           "mei-ti-su-chai-ku",
           "biao-qian-guang-li",
-          "zi-chan-guan-li"
+          {
+            "group": "资产管理",
+            "pages": [
+              "zi-chan-guan-li",
+              "ding-xiang-bao",
+              "chuang-yi-zu",
+              "di-qu-zu",
+              "chu-jia-he-yu-suang",
+              "chuang-xin-hu-dong-yang-shi"
+            ]
+          }
         ]
       },
       {
@@ -59,7 +69,8 @@
       {
         "tab": "团队管理",
         "pages": [
-          "untitled-page-7"
+          "bu-men-guan-li",
+          "yong-hu-guan-li"
         ]
       },
       {
@@ -74,16 +85,6 @@
           "da-pan-gai-lan",
           "su-cai-bao-biao",
           "tuan-dui-kan-ban"
-        ]
-      },
-      {
-        "tab": "资产",
-        "pages": [
-          "di-qu-zu",
-          "ding-xiang-bao",
-          "chu-jia-he-yu-suang",
-          "chuang-yi-zu",
-          "chuang-xin-hu-dong-yang-shi"
         ]
       }
     ]
